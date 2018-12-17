@@ -2,4 +2,4 @@
 testing modification of the file
 seeing modification difference
 checking for branch creation
-testing failed for conflict
+testing failed for conflict -- secondtime checking
